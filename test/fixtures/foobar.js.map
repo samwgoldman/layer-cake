@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"foobar.js",
+"lineCount":1,
+"mappings":"AACA,IAAK,SAAS,EAAG,CAET,SAAS,EAAG,CAChBA,QAASA,EAAG,EAAG,EAEfA,CAAAC,UAAAC,IAAA,CAAoBC,QAAS,EAAG,CAC9B,MAAO,MADuB,CAGhC,OAAOH,EANS,CAAZ,CAAA,EAFS,CAAZI,KAAA,CAUE,IAVF,C,CCAL,IAAK,SAAS,EAAG,CAET,SAAS,EAAG,CAChBC,QAASA,EAAG,EAAG,EAEfA,CAAAJ,UAAAK,IAAA,CAAoBC,QAAS,EAAG,CAC9B,MAAO,MADuB,CAGhC,OAAOF,EANS,CAAZ,CAAA,EAFS,CAAZD,KAAA,CAUE,IAVF;",
+"sources":["foo.js","bar.js"],
+"names":["Foo","prototype","foo","Foo.prototype.foo","call","Bar","bar","Bar.prototype.bar"]
+}

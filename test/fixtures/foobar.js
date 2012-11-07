@@ -1,0 +1,1 @@
+void function(){(function(){function a(){}a.prototype.foo=function(){return"Foo!"};return a})()}.call(this);void function(){(function(){function a(){}a.prototype.bar=function(){return"Bar!"};return a})()}.call(this);
